@@ -11,7 +11,7 @@ I have explained this project with a complete dashboard so that it can be known 
 **What Is used to create dashboard**
 
 For dashboard creating i used
-Line chart
+LINE CHART
 KPIs
 GAUGE CARD
 SLICER
